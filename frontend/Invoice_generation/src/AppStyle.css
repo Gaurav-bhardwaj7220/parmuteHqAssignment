@@ -1,0 +1,49 @@
+.seller_buyer_details{
+    width: 500px;
+    display: flex;
+    flex-direction: row;
+    column-gap: 50px;
+}
+
+.sell_Info,.buy_Info{
+    display: flex;
+    flex-direction: column;
+    row-gap: 5px;
+    margin-top: 10px;
+    margin-right: 20px;
+}
+
+.items_info{
+    display: flex;
+    flex-direction: column;
+}
+
+.items_input{
+    display: flex;
+    flex-direction: row;
+    column-gap: 5px;
+}
+
+.inputs{
+    width: 100px;
+    margin-top: 5px;
+}
+
+.remove{
+    width: 100px;
+    height: 25px;
+    margin-top: 5px;
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    row-gap: 10px;
+    margin-top: 20px;
+    margin-right: 20px;
+}
+
+.buttons{
+    width: 100px;
+    height: 35px;
+}
